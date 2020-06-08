@@ -95,4 +95,3 @@ SELECT
     hire_date "입사일"
 FROM employees
 where hire_date<'03/12/31';
-
